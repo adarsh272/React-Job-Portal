@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mt-4 {
+    margin-top: 4px;
+}
+
+.error {
+    color: red;
+    margin-top: 0;
+}
